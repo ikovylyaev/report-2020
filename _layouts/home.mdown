@@ -1,0 +1,363 @@
+---
+layout: default
+---
+<div class='container mt-5'>
+  <div class='row'>
+    <ul class="nav mb-5">
+        <li class="nav-item mr-4">
+          <a href="http://ikovylyaev.com" class="nav-link"><small>дизайн</small></a>
+        </li>
+            <li class="nav-item mr-4">
+          <a href="http://video.ikovylyaev.com" class="nav-link"><small>фото и видео</small></a>
+        </li>
+        <li class="nav-item">
+          <a href="http://nature.ikovylyaev.com" class="nav-link"><small>урал</small></a>
+        </li>
+    </ul>
+    <h1 class='col-12'>
+      <p class='display-4 pb-0'>годовой отчет<br><b style='font-weight: 700!important;'>kovylyaev</b>digital<br>2020</p>
+    </h1>
+    <ul class="nav mb-5">
+        <li class="nav-item mr-4">
+          <a href="{{ site.url }}/youtube" class="nav-link">показатели youtube</a>
+        </li>
+        <li class="nav-item mr-4">
+          <a href="{{ site.url }}/behance" class="nav-link">показатели behance</a>
+        </li>
+    </ul>
+  </div>
+	<section class='row'>
+	  <div class='col-12 col-lg-6' style='margin-top: 30px;'>
+      <div class='square'>
+        <div class='square-content' style='background: url("{{site.url}}/img/greentech-bg.png"); background-size: cover;'>
+          <div class='inner'>
+            <h3 class='h1'>разработка логотипа greentech</h3>
+            <img src='{{site.url}}/img/greentech.png' style='width: 40%; position: absolute; bottom: 25px; left: 25px;'>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class='col-12 col-lg-6' style='margin-top: 30px;'>
+      <div class='row'>
+        <div class='col-6'>
+          <div class='square'>
+            <div class='square-content' style='background: #0057FF;'>
+              <div class='inner' style='color: #fff; background: none;'>
+                <h3 class='h1'>работ на behance</h3>
+                <p class='display-4 pb-0 mb-0' style='width: 40%; position: absolute; bottom: 25px; left: 25px;'>12</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class='col-6'>
+          <div class='square'>
+            <div class='square-content' style='background: #FF0101;'>
+              <div class='inner' style='color: #fff; background: none;'>
+                <h3 class='h1'>видео на youtube</h3>
+                <p class='display-4 pb-0 mb-0' style='width: 40%; position: absolute; bottom: 25px; left: 25px;'>14</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class='row' style='margin-top: 30px;'>
+        <div class='col-6'>
+          <div class='square'>
+            <div class='square-content' style='background: #fff;'>
+              <div class='inner' style='color: #0057FF;  background: #fff!important;'>
+                <h3 class='h1'>просмотров на behance</h3>
+                <p class='display-4 pb-0 mb-0' style='width: 40%; position: absolute; bottom: 25px; left: 25px;'>1,2<sup>тыс.</suo></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class='col-6'>
+          <div class='square'>
+            <div class='square-content' style='background: #fff;'>
+              <div class='inner' style='color: #FF0101; background: #fff!important;'>
+                <h3 class='h1'>просмотров на youtube</h3>
+                <p class='display-4 pb-0 mb-0' style='width: 40%; position: absolute; bottom: 25px; left: 25px;'>1,3<sup>тыс.</suo></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class='col-12 col-lg-6' style='margin-top: 30px;'>
+      <div class='row'>
+        <div class='col-6'>
+          <a href='https://www.behance.net/gallery/109512807/hc-automobilist-logo-concept' target='_blank'>
+            <div class='square'>
+              <div class='square-content' style='background: url("{{site.url}}/img/automobilist-bg.png"); background-size: cover;'>
+                <div class='inner'>
+                  <h3 class='h2'>хк автомобилист<br><sub>концепт</sub></h3>
+                  <img src='{{site.url}}/img/automobilist.svg' style='width: 40%; position: absolute; bottom: 25px; left: 25px;'>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class='col-6'>
+          <a href='https://www.behance.net/gallery/98168505/visit-ekaterinburg-concept-mobile-app-for-tourists' target='_blank'>
+            <div class='square'>
+              <div class='square-content' style='background: url("{{site.url}}/img/ve-bg.png"); background-size: cover;'>
+                <div class='inner'>
+                  <h3 class='h2'>visit ekaterinburg<br><sub>концепт</sub></h3>
+                  <img src='{{site.url}}/img/ve.png' style='width: 40%; position: absolute; bottom: 25px; left: 25px;'>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class='row' style='margin-top: 30px;'>
+        <div class='col-6'>
+          <a href='https://www.behance.net/gallery/108513327/Buah-ajdentika-dostavki-svezhih-fruktov' target='_blank'>
+            <div class='square'>
+              <div class='square-content' style='background: url("{{site.url}}/img/buah-bg.png"); background-size: cover;'>
+                <div class='inner'>
+                  <h3 class='h2'>buah<br><small>концепт</small></h3>
+                  <img src='{{site.url}}/img/buah.png' style='width: 40%; position: absolute; bottom: 25px; left: 25px;'>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class='col-6'>
+          <a href='https://www.behance.net/gallery/106871815/StudentsUP-koncept-vnutrennej-programmy-itmo' target='_blank'>
+            <div class='square'>
+              <div class='square-content' style='background: url("{{site.url}}/img/studentsup-bg.png"); background-size: cover;'>
+                <div class='inner'>
+                  <h3 class='h2'>students up<br><small>концепт</small></h3>
+                  <img src='{{site.url}}/img/studentsup.png' style='width: 40%; position: absolute; bottom: 25px; left: 25px;'>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class='col-12 col-lg-6' style='margin-top: 30px;'>
+      <a href='https://www.behance.net/gallery/105774851/Hawk-mobile-client-concept' target='_blank'>
+        <div class='square'>
+          <div class='square-content' style='background: url("{{site.url}}/img/hawk-bg.png"); background-size: cover;'>
+            <div class='inner'>
+              <h3 class='h1'>hawk mobile concept</h3>
+              <img src='{{site.url}}/img/hawk.png' style='width: 40%; position: absolute; bottom: 0px; left: 25px;'>
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class='col-12 col-lg-6' style='margin-top: 30px;'>
+      <a href='https://www.behance.net/gallery/104278489/nezavisimaja-zhurnalistika-concept-website-of-agency' target='_blank'>
+        <div class='square'>
+          <div class='square-content' style='background: url("{{site.url}}/img/ng-bg.png"); background-size: cover;'>
+            <div class='inner'>
+              <h3 class='h1'>независимая журналистика<br><sub>концепт</sub></h3>
+              <img src='{{site.url}}/img/ng.png' style='width: 40%; position: absolute; bottom: 25px; left: 25px;'>
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class='col-12 col-lg-6' style='margin-top: 30px;'>
+      <div class='row'>
+        <div class='col-6'>
+          <a href='https://www.behance.net/gallery/105604541/Infolab-a-place-to-turn-your-ideas-into-reality' target='_blank'>
+            <div class='square'>
+              <div class='square-content' style='background: url("{{site.url}}/img/infolab-bg.png"); background-size: cover;'>
+                <div class='inner'>
+                  <h3 class='h2'>инфолаб<br><sub>концепт</sub></h3>
+                  <img src='{{site.url}}/img/infolab.png' style='width: 40%; border-radius: 16px; position: absolute; bottom: 25px; left: 25px;'>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class='col-6'>
+          <a href='https://www.behance.net/gallery/104025493/ekatalog-concept-of-website' target='_blank'>
+            <div class='square'>
+              <div class='square-content' style='background: url("{{site.url}}/img/ekatalog-bg.png"); background-size: cover;'>
+                <div class='inner'>
+                  <h3 class='h2'>ekatalog<br><sub>концепт</sub></h3>
+                  <img src='{{site.url}}/img/ekatalog.png' style='width: 40%; position: absolute; bottom: 25px; left: 25px;'>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class='row' style='margin-top: 30px;'>
+        <div class='col-6'>
+          <a href='https://www.behance.net/gallery/99007345/koncept-veb-sajta-goroda-ekaterinburg' target='_blank'>
+            <div class='square'>
+              <div class='square-content' style='background: url("{{site.url}}/img/ekb-bg.png"); background-size: cover;'>
+                <div class='inner'>
+                  <h3 class='h2'>екатеринбург<br><small>концепт</small></h3>
+                  <img src='{{site.url}}/img/ekb.png' style='width: 40%; position: absolute; bottom: 25px; left: 25px;'>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class='col-6'>
+          <a href='https://www.behance.net/gallery/98121463/uralexperience-concept-website-about-ural-mountains' target='_blank'>
+            <div class='square'>
+              <div class='square-content' style='background: url("{{site.url}}/img/ural-bg.png"); background-size: cover;'>
+                <div class='inner'>
+                  <h3 class='h2'>ural experience</h3>
+                  <img src='{{site.url}}/img/ural.png' style='width: 40%; position: absolute; bottom: 25px; left: 25px;'>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class='col-12 col-lg-6' style='margin-top: 30px;'>
+      <a href='http://nature.ikovylyaev.com' target='_blank'>
+        <div class='square'>
+          <div class='square-content' style='background: url("{{site.url}}/img/nature-bg.png"); background-size: cover;'>
+            <div class='inner'>
+              <h3 class='h1'>натуральный поход<br><sub>сайт</sub></h3>
+              <img src='{{site.url}}/img/nature.png' style='width: 40%; position: absolute; bottom: 25px; left: 25px;'>
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class='col-12 col-lg-6' style='margin-top: 30px;'>
+      <div class='row'>
+        <div class='col-6'>
+          <a href='https://www.behance.net/gallery/90215023/naturalnyj-pohod-logotip-serii-video-iz-pohodov' target='_blank'>
+            <div class='square'>
+              <div class='square-content'>
+                <div class='inner' style='background: #ff7400!important;'>
+                  <h3 class='h2'>натуральный поход</h3>
+                  <img src='{{site.url}}/img/nature.png' style='width: 40%; position: absolute; bottom: 25px; left: 25px;'>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class='col-6'>
+          <a href='https://www.behance.net/gallery/97486837/sky-monitor-sistema-monitoringa-kachestva-vozduha' target='_blank'>
+            <div class='square'>
+              <div class='square-content' style='background: url("{{site.url}}/img/sky-bg.png"); background-size: cover;'>
+                <div class='inner'>
+                  <h3 class='h2'>sky<br><sub>концепт</sub></h3>
+                  <img src='{{site.url}}/img/sky.png' style='width: 40%; position: absolute; bottom: 25px; left: 25px;'>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class='row' style='margin-top: 30px;'>
+        <div class='col-6'>
+          <a href='https://www.behance.net/gallery/96708697/recyclica-mobile' target='_blank'>
+            <div class='square'>
+              <div class='square-content' style='background: url("{{site.url}}/img/recyclica-bg.png"); background-size: cover;'>
+                <div class='inner'>
+                  <h3 class='h2'>recyclica</h3>
+                  <img src='{{site.url}}/img/recyclica.png' style='width: 40%; position: absolute; bottom: 0px; left: 25px;'>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class='col-6'>
+          <a href='https://www.behance.net/gallery/90783987/prototip-veb-sajta-i-logotipa-konkursa-mediaskills' target='_blank'>
+            <div class='square'>
+              <div class='square-content' style='background: url("{{site.url}}/img/mediaskills-bg.png"); background-size: cover;'>
+                <div class='inner'>
+                  <h3 class='h2'>mediaskills<br><small>концепт</small></h3>
+                  <img src='{{site.url}}/img/mediaskills.png' style='width: 40%; position: absolute; bottom: 25px; left: 25px;'>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class='col-12' style='margin-top: 30px;'>
+      <div class='row'>
+        <div class='col-6 col-lg-3'>
+          <a href='https://www.behance.net/gallery/90504473/naturalnyj-derevenskij-med-dizajn-koncept-brenda' target='_blank'>
+            <div class='square'>
+              <div class='square-content'>
+                <div class='inner' style='background: #F7FF00!important; color: #000;'>
+                  <h3 class='h2'>ндм<br><small>концепт</small></h3>
+                  <img src='{{site.url}}/img/ndm.png' style='width: 40%; position: absolute; bottom: 25px; left: 25px;'>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class='col-6 col-lg-3'>
+          <div class='square'>
+            <div class='square-content' style='background: #fff;'>
+              <div class='inner' style='color: #000;  background: #fff!important;'>
+                <h3 class='h2'>черновиков на behance</h3>
+                <p class='display-4 pb-0 mb-0' style='width: 40%; position: absolute; bottom: 25px; left: 25px;'>14</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class='col-6 col-lg-3'>
+          <div class='square'>
+            <div class='square-content' style='background: #fff;'>
+              <div class='inner' style='color: #fff;  background: #162eae!important;'>
+                <h3 class='h2'>активных сайтов</h3>
+                <p class='display-4 pb-0 mb-0' style='width: 40%; position: absolute; bottom: 25px; left: 25px;'>6</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class='col-6 col-lg-3'>
+          <a href='http://soh138.tilda.ws/' target="_blank">
+            <div class='square'>
+              <div class='square-content' style='background: #FF0000;'>
+                <div class='inner' style='color: #fff;  background: #FF0000!important;'>
+                  <h3 class='h2'>лонгридов</h3>
+                  <p class='display-4 pb-0 mb-0' style='width: 40%; position: absolute; bottom: 25px; left: 25px;'>5</p>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+
+  </section>
+<footer class="row" style="margin-top: 200px;">
+	<div class="col-6 m-0">
+		&copyikovylyaev.com 2021<br>
+		<a href='{{site.url}}/terms'>terms of use</a> | <a href='{{site.url}}/policy'>privacy policy</a>
+	</div>
+	<div class="col-6 m-0" style='text-align: right'>
+		<ul class="nav social-links">
+		  <li class="nav-item">
+		    <a class="nav-link" href="http://vk.com/ikovylyaev"><i class="fab fa-vk"></i></a>
+		   </li>
+		   <li class="nav-item">
+		    <a class="nav-link" href="http://instagram.com/ikovylyaev"><i class="fab fa-instagram"></i></a>
+		   </li>
+		   <li class="nav-item">
+	            <a class="nav-link" style="color: #fff;" href="https://www.youtube.com/channel/UCf9GOVc0qKKPB-Ee3LfH_uw"><i class="fab fa-youtube"></i></a>
+	           </li>
+		   <li class="nav-item">
+		    <a class="nav-link" href="http://500px.com/azimytfoto"><i class="fab fa-500px"></i></a>
+		   </li>
+		   <li class="nav-item">
+		    <a class="nav-link" href="https://www.behance.net/ikovylyaev"><i class="fab fa-behance"></i></a>
+		   </li>
+		   <li class="nav-item">
+		    <a class="nav-link" href="http://github.com/ikovylyaev"><i class="fab fa-github"></i></a>
+		   </li>
+		</ul>
+	</div>
+
+</footer>
+
+</main>
