@@ -10,7 +10,7 @@ permalink: "/behance/"
             <div class='square-content' style='background: #fff;'>
               <div class='inner' style='color: #000;  background: #fff!important;'>
                 <h3 class='h2'>просмотров</h3>
-                <p class='display-4 pb-0 mb-0' style='width: 40%; position: absolute; bottom: 25px; left: 25px;'>3,9<sup>тыс.</sup></p>
+                <p class='display-4 pb-0 mb-0' style='width: 40%; position: absolute; bottom: 25px; left: 25px;'>1,2<sup>тыс.</sup></p>
               </div>
             </div>
           </div>
