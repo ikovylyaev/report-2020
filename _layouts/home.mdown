@@ -28,6 +28,7 @@ layout: default
   </div>
 	<section class='row'>
 	  <div class='col-12 col-lg-6' style='margin-top: 30px;'>
+     <a href='https://www.behance.net/gallery/108752549/greentech-logotype' target='_blank'>
       <div class='square'>
         <div class='square-content' style='background: url("{{site.url}}/img/greentech-bg.png"); background-size: cover;'>
           <div class='inner'>
@@ -35,7 +36,7 @@ layout: default
             <img src='{{site.url}}/img/greentech.png' style='width: 40%; position: absolute; bottom: 25px; left: 25px;'>
           </div>
         </div>
-      </div>
+      </div></a>
     </div>
     <div class='col-12 col-lg-6' style='margin-top: 30px;'>
       <div class='row'>
