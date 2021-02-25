@@ -1,7 +1,7 @@
 title: годовой отчет - kovylyaevdigital
 email: hi@ikovylyaev.com
 baseurl: "" 
-url: "http://2020.report.ikovylyaev.com"
+url: "https://2020.report.ikovylyaev.com"
 
 plugins:
   - jekyll-feed
